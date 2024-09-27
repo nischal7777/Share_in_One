@@ -1,0 +1,15 @@
+<option value={'commercial_banks'}>{'Commercial Banks'}</option>
+<option value={'corporate_debentures'}>{'Corporate Debenture'}</option>
+<option value={'development_banks'}>{'Development Banks'}</option>
+<option value={'finance'}>{'Finance'}</option>
+<option value={'hotels_and_tourism'}>{'Hotels And Tourism'}</option>
+<option value={'hydro_power'}>{'Hydro Power'}</option>
+<option value={'investment'}>{'Investment'}</option>
+<option value={'life_insurance'}>{'Life Insurance'}</option>
+<option value={'manufacturing_and_processing'}>{'Manufacturing And Processing'}</option>
+<option value={'microfinance'}>{'Microfinance'}</option>
+<option value={'mutual_fund'}>{'Mutual Fund'}</option>
+<option value={'non_life_insurance'}>{'Non-Life Insurance'}</option>
+<option value={'others'}>{'Others'}</option>
+<option value={'promoter_share'}>{'Promotor Share'}</option>
+<option value={'tradings'}>{'Tradings'}</option>
